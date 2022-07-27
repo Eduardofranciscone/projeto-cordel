@@ -4,5 +4,5 @@
 <p> Projeto simples para treinar o efeito de rologem com a imagem de fundo.</p>
 
 <ul>
- <a href="https://eduardofranciscone.github.io/projeto-cordel/"<li>Abir projeto</li></a>
+ <li><a href="https://eduardofranciscone.github.io/projeto-cordel/">Abrir Projeto</a></li>
 </ul>
